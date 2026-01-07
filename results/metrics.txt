@@ -1,0 +1,12 @@
+Brain Tumor Classification - Model Performans Raporu
+==================================================
+                  precision    recall  f1-score   support
+
+    glioma_tumor       0.78      0.18      0.29       100
+meningioma_tumor       0.60      0.88      0.72       115
+        no_tumor       0.60      0.93      0.73       105
+ pituitary_tumor       0.86      0.49      0.62        74
+
+        accuracy                           0.64       394
+       macro avg       0.71      0.62      0.59       394
+    weighted avg       0.70      0.64      0.60       394

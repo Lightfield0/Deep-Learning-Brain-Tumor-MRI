@@ -160,5 +160,5 @@ ehthumbs.db
 Thumbs.db
 
 # Project Specific
-results/
+# results/ # Uncomment if you want to ignore the results folder
 # archive/ # Uncomment if you want to ignore the dataset folder
